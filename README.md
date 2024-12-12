@@ -8,9 +8,17 @@ These algorithms help organize data, find the shortest path, and make decisions 
 
 
 ## About team:
-# 1. Swetha Kadabgaon
+### 1. Swetha Kadabgaon (348)
 SRN: 01fe23bcs270
 
-# 2. Nidhi Kugunavar
+### 2. Saniyanaz Momin (350)
+SRN: 01fe23bcs273
+Know more: [About me]()
+
+### 3. Nidhi Kugunavar (351)
 SRN: 01fe23bcs281
-[About me](readme1.md)
+Know more: [About me]()
+
+### 4. Khushi (358)
+SRN: 01fe23bcs278
+Know more: [About me]()
