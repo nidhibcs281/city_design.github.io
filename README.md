@@ -7,12 +7,12 @@ These algorithms help organize data, find the shortest path, and make decisions 
 The Design and Analysis of Algorithms (DAA) applies to real-world problems by making tasks more efficient. For example, sorting algorithms help e-commerce sites organize products, while graph algorithms like Dijkstra’s are used in GPS to find the shortest routes. Dynamic programming optimizes scheduling, and greedy algorithms help minimize costs in network design. In short, algorithms are essential for improving speed and efficiency in various systems, from navigation to data management.
 
 # Data Structures and Algorithms we have studied:
-ARRAYS  
-LINKED LISTS  
-STACKS  
-QUEUES  
-SPACE AND TIME COMPLEXITIES
-## TREES AND GRAPHS  
+### ARRAYS  
+### LINKED LISTS  
+### STACKS  
+### QUEUES  
+### SPACE AND TIME COMPLEXITIES
+### TREES AND GRAPHS  
 Trees  
 AVL  
 BST  
@@ -22,20 +22,20 @@ Heaps
 Tries  
 DFS  
 BFS  
-HASHING AND HASH FUNCTIONS
-## SORTING  
+### HASHING AND HASH FUNCTIONS
+###  SORTING  
 Bubble sort  
 Selection Sort  
 Insertion Sort  
 Merge sort  
 Quick sort  
 Heap sort
-## SUBSTRING SEARCH ALGORITHMS
+###  SUBSTRING SEARCH ALGORITHMS
 Brute-force method  
 Boyer-Moore Algorithm  
 Knuth-Morris Algorithm  
 Rabin-Karp Algorithm
-## GRAPH ALGORITHMS
+###  GRAPH ALGORITHMS
 Union-find data structure  
 Shortest path algorithms  
 Minimum Spanning tree Algorithms
