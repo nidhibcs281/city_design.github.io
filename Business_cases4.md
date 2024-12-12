@@ -146,9 +146,6 @@
         </div>
     </div>
 
-    <div class="note">
-        <strong>Note:</strong> These targets and indicators contribute to the achievement of SDG 11, which focuses on making cities and human settlements inclusive, safe, resilient, and sustainable.
-    </div>
 </div>
 
 </body>
