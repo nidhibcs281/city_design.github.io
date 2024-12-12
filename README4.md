@@ -26,14 +26,14 @@ I am passionate about technology and problem-solving. Here's a glimpse of my wor
 <dd>Course Code Placeholder</dd>
 <dt>Name</dt>
 <dd>Khushi R</dd>
-<dt>01fe23bcs278</dt>
-<dd>Your SRN</dd>
+<dt>SRN</dt>
+<dd>01fe23bcs278</dd>
 <dt>Course Instructor</dt>
-<dd>Instructor Name Placeholder</dd>
+<dd>Prakash Hegade Sir</dd>
 <dt>University</dt>
-<dd>Your University Name</dd>
+<dd>KLE Technological University</dd>
 <dt>Portfolio Topic/Domain</dt>
-<dd>Google</dd>
+<dd>Smart City Design</dd>
 </dl>
 
 <br> 
