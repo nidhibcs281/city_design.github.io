@@ -49,6 +49,7 @@ Know more: [About me](readme2.md)
 ### 2. Saniyanaz Momin (350)
 SRN: 01fe23bcs273
 Know more: [About me](readme3.md)
+[Course reflections](CourseReflection.md)
 
 ### 3. Nidhi Kugunavar (351)
 SRN: 01fe23bcs281
