@@ -4,9 +4,10 @@ This course explores the application of natural patterns and designs to solve re
 
 These algorithms help organize data, find the shortest path, and make decisions based on past information. The course connects the learning to real-time applications, demonstrating that algorithms are not just theoretical concepts but are rooted in our thinking and actions in the real world. By understanding the connection between these time-tested methods and their application in the modern world, students can better understand the world around them.
 
+## Real Time Applications:
 The Design and Analysis of Algorithms (DAA) applies to real-world problems by making tasks more efficient. For example, sorting algorithms help e-commerce sites organize products, while graph algorithms like Dijkstra’s are used in GPS to find the shortest routes. Dynamic programming optimizes scheduling, and greedy algorithms help minimize costs in network design. In short, algorithms are essential for improving speed and efficiency in various systems, from navigation to data management.
 
-# Data Structures and Algorithms we have studied:
+## Data Structures and Algorithms we have studied:
 ### ARRAYS  
 ### LINKED LISTS  
 ### STACKS  
