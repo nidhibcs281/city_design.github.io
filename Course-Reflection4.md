@@ -1,41 +1,4 @@
-<!DOCTYPE html>
-<html lang="en">
-<head>
-  <meta charset="UTF-8">
-  <meta name="viewport" content="width=device-width, initial-scale=1.0">
-  <title>Course Reflections</title>
-  <style>
-    body {
-      font-family: Arial, sans-serif;
-      line-height: 1.6;
-      background-color: #f4f4f9;
-      color: #333;
-      margin: 0;
-      padding: 20px;
-    }
-    h1 {
-      text-align: center;
-      color: #444;
-    }
-    h2 {
-      color: #333;
-    }
-    p {
-      font-size: 16px;
-    }
-    ul {
-      list-style-type: disc;
-      padding-left: 20px;
-    }
-    li {
-      margin-bottom: 10px;
-    }
-    .section {
-      margin-top: 20px;
-    }
-  </style>
-</head>
-<body>
+
 
   <h1>Course Reflections</h1>
   
