@@ -1,42 +1,6 @@
-# city_design.github.io
-## Portfolio
+# Course Overview: Natural Patterns and Real-World Problem Solving
 
-### Hello, I'm [Your Name] 👋
+This course explores the application of natural patterns and designs to solve real-world problems using data structures and algorithms. It highlights that algorithms are not just theoretical concepts but practical strategies used in everyday life.
 
-I am passionate about technology and problem-solving. Here's a glimpse of my work:
+These algorithms help organize data, find the shortest path, and make decisions based on past information. The course connects the learning to real-time applications, demonstrating that algorithms are not just theoretical concepts but are rooted in our thinking and actions in the real world. By understanding the connection between these time-tested methods and their application in the modern world, students can better understand the world around them.
 
-## 🛠️ Projects
-- **Project 1**: A short description of your project.
-- **Project 2**: A short description of another project.
-
-## 🚀 Skills
-- C++, Python, JavaScript
-- Data Structures and Algorithms
-- Web Development (React.js, Node.js)
-
-## 🌐 Find Me Online
-- [GitHub](https://github.com/your-github-username)
-- [LinkedIn](https://linkedin.com/in/your-linkedin-profile)
-
-## Portfolio Topic
-
-<dl>
-<dt>Course Name</dt>
-<dd>Algorithmic Problem Solving</dd>
-<dt>Course Code</dt>
-<dd>Course Code Placeholder</dd>
-<dt>Name</dt>
-<dd>Your Name</dd>
-<dt>SRN</dt>
-<dd>Your SRN</dd>
-<dt>Course Instructor</dt>
-<dd>Instructor Name Placeholder</dd>
-<dt>University</dt>
-<dd>Your University Name</dd>
-<dt>Portfolio Topic/Domain</dt>
-<dd>Google</dd>
-</dl>
-
-<br> 
-> “The only way to do great work is to love what you do.” – Steve Jobs
->
