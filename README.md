@@ -10,15 +10,16 @@ These algorithms help organize data, find the shortest path, and make decisions 
 ## About team:
 ### 1. Swetha Kadabgaon (348)
 SRN: 01fe23bcs270
+Know more: [About me](readme2.md)
 
 ### 2. Saniyanaz Momin (350)
 SRN: 01fe23bcs273
-Know more: [About me]()
+Know more: [About me](readme3.md)
 
 ### 3. Nidhi Kugunavar (351)
 SRN: 01fe23bcs281
-Know more: [About me]()
+Know more: [About me](readme1.md)
 
 ### 4. Khushi (358)
 SRN: 01fe23bcs278
-Know more: [About me]()
+Know more: [About me](README4.md)
