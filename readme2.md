@@ -6,14 +6,13 @@ I am passionate about technology and problem-solving. Here's a glimpse of my wor
 
 ## 🛠 Projects
 - *Project 1*: automated toy(catterpillar).
-- 
+
 ## 🚀 Skills
 - C++, C, Python
 - Data Structures and Algorithms
 
 ## 🌐 Find Me Online
 - [GitHub](https://https://github.com/swethakadabgaon27)
-- [LinkedIn](https://linkedin.com/in/Swetha kadabgaon)
 
 ## Smart City - Prakashpur
 
