@@ -14,7 +14,7 @@ I am passionate about technology and problem-solving. Here's a glimpse of my wor
 ## 🌐 Find Me Online
 - [GitHub](https://https://github.com/swethakadabgaon27)
 
-## Smart City - Prakashpur
+## Portfolio Topic
 
 <dl>
 <dt>Course Name</dt>
@@ -30,7 +30,7 @@ I am passionate about technology and problem-solving. Here's a glimpse of my wor
 <dt>University</dt>
 <dd>KLE Technological Unversity</dd>
 <dt>Portfolio Topic/Domain</dt>
-<dd>Google</dd>
+<dd>Smart City - Prakashpur</dd>
 </dl>
 
 <br> 
