@@ -14,7 +14,7 @@ I am passionate about technology and problem-solving. Here's a glimpse of my wor
 - Web Development (React.js, Node.js)
 
 ## 🌐 Find Me Online
-- [GitHub](https://github.com/your-github-01fe23bcs278)
+- [GitHub](https://github.com/01fe23bcs278)
   
 
 ## Portfolio Topic
