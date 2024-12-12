@@ -1,4 +1,4 @@
-# Course Overview: Natural Patterns and Real-World Problem Solving
+# Design Analysis and Algorithms
 
 This course explores the application of natural patterns and designs to solve real-world problems using data structures and algorithms. It highlights that algorithms are not just theoretical concepts but practical strategies used in everyday life.
 
