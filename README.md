@@ -54,6 +54,7 @@ Know more: [About me](readme2.md)
 SRN: 01fe23bcs273  
 Know more: [About me](readme3.md)  
 [Course reflections](CourseReflection3.md)
+[Business Cases](BusinessCases3.md)
 
 ### 3. Nidhi Kugunavar (351)
 SRN: 01fe23bcs281  
