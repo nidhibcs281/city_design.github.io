@@ -12,7 +12,7 @@ I am passionate about technology and problem-solving. Here's a glimpse of my wor
 - Data Structures and Algorithms
 
 ## 🌐 Find Me Online
-- [GitHub](https://github.com/your-github-Saniyanaz177
+- [GitHub](https://github.com/Saniyanaz177)
 - [LinkedIn](https://www.linkedin.com/in/saniyanaz-momin-9799752a7?utm_source=share&utm_campaign=share_via&utm_content=profile&utm_medium=android_app)
 
 ## Portfolio Topic
