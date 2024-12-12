@@ -47,14 +47,14 @@ Minimum Spanning tree Algorithms
 ### 1. Swetha Kadabgaon (348)
 SRN: 01fe23bcs270  
 Know more: [About me](readme2.md)  
-[Course reflections](CourseReflection2.md)
+[Course reflections](CourseReflection2.md)  
 [Business cases](Business-cases2.md)
 
 ### 2. Saniyanaz Momin (350)
 SRN: 01fe23bcs273  
 Know more: [About me](readme3.md)  
-[Course reflections](CourseReflection3.md)
-[Business Cases](BusinessCases3.md)
+[Course reflections](CourseReflection3.md)  
+[Business Cases](BuisnessCases3.md)
 
 ### 3. Nidhi Kugunavar (351)
 SRN: 01fe23bcs281  
@@ -65,4 +65,4 @@ Know more: [About me](readme1.md)
 ### 4. Khushi (358)
 SRN: 01fe23bcs278  
 Know more: [About me](README4.md)
-[Course Reflections)(Course-Reflection4.md)
+[Course Reflections](Course-Reflection4.md)
