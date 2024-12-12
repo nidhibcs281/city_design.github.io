@@ -4,6 +4,8 @@ This course explores the application of natural patterns and designs to solve re
 
 These algorithms help organize data, find the shortest path, and make decisions based on past information. The course connects the learning to real-time applications, demonstrating that algorithms are not just theoretical concepts but are rooted in our thinking and actions in the real world. By understanding the connection between these time-tested methods and their application in the modern world, students can better understand the world around them.
 
+The Design and Analysis of Algorithms (DAA) applies to real-world problems by making tasks more efficient. For example, sorting algorithms help e-commerce sites organize products, while graph algorithms like Dijkstra’s are used in GPS to find the shortest routes. Dynamic programming optimizes scheduling, and greedy algorithms help minimize costs in network design. In short, algorithms are essential for improving speed and efficiency in various systems, from navigation to data management.
+
 # Data Structures and Algorithms we have studied:
 ARRAYS  
 LINKED LISTS  
@@ -43,21 +45,21 @@ Minimum Spanning tree Algorithms
 
 ## About team:
 ### 1. Swetha Kadabgaon (348)
-SRN: 01fe23bcs270
-Know more: [About me](readme2.md)
+SRN: 01fe23bcs270  
+Know more: [About me](readme2.md)  
 [Course reflections](CourseReflection2.md)
 
 ### 2. Saniyanaz Momin (350)
-SRN: 01fe23bcs273
-Know more: [About me](readme3.md)
+SRN: 01fe23bcs273  
+Know more: [About me](readme3.md)  
 [Course reflections](CourseReflection3.md)
 
 ### 3. Nidhi Kugunavar (351)
-SRN: 01fe23bcs281
-Know more: [About me](readme1.md)
-[Course reflections](course-reflection1.md)
+SRN: 01fe23bcs281  
+Know more: [About me](readme1.md)  
+[Course reflections](course-reflection1.md)  
 [Buisness Cases](business_case1.md)
 
 ### 4. Khushi (358)
-SRN: 01fe23bcs278
+SRN: 01fe23bcs278  
 Know more: [About me](README4.md)
