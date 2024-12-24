@@ -107,12 +107,6 @@ p {
         <p class="target">Target: 10.2 - By 2030, empower and promote the social, economic, and political inclusion of all, irrespective of age, sex, disability, race, ethnicity, origin, religion, or economic or other status.</p>
       </div>
 
-      <div class="sdg">
-        <p class="sdg-title">SDG 4: Quality Education</p>
-        <p>4.4.1 - Proportion of youth and adults with information and communications technology (ICT) skills, by type of skill.</p>
-        <p class="target">Target: 4.4 - By 2030, increase by x% the number of youth and adults who have relevant skills for employment, decent jobs, and entrepreneurship.</p>
-      </div>
-
       <div class="algorithm-section">
         <p class="algorithm-title">Data Structures and Algorithms:</p>
         <ul>
