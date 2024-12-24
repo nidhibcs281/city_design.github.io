@@ -131,17 +131,11 @@ p {
         <p class="target">Target: 11.5 - Significantly reduce the number of deaths and the number of people affected and substantially decrease the direct economic losses relative to global gross domestic product caused by disasters, including water-related disasters.</p>
       </div>
 
-      <div class="sdg">
-        <p class="sdg-title">SDG 9: Industry, Innovation, and Infrastructure</p>
-        <p>9.5.1 - Research and development expenditure as a percentage of GDP.</p>
-        <p class="target">Target: 9.5 - Enhance scientific research, upgrade technological capabilities, and encourage innovation for disaster relief.</p>
-      </div>
-
       <div class="algorithm-section">
         <p class="algorithm-title">Data Structures and Algorithms:</p>
         <ul>
-          <li><b>Trees (BST, AVL):</b> Can organize supply routes or communication networks in a way that optimizes traversal.</li>
-          <li><b>Union-Find:</b> Used to manage connected components, especially when tracking reachable areas for drones and robots during a disaster.</li>
+          <li><b>BST or AVL Trees:</b> Can organize supply routes or communication networks in a way that optimizes traversal.</li>
+          <li><b>Kruskal's algorithm:</b> Used to manage connected components, especially when tracking reachable areas for drones and robots during a disaster.</li>
         </ul>
       </div>
     </section>
