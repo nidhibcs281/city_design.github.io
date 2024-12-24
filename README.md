@@ -50,6 +50,7 @@ SRN: 01fe23bcs270
 Know more: [About me](readme2.md)  
 [Course reflections](CourseReflection2.md)  
 [Business cases](Business-cases2.md)  
+[image](image)  
 
 ### 2. Saniyanaz Momin (350)
 SRN: 01fe23bcs273  
