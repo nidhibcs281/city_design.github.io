@@ -2,13 +2,20 @@ title: CITY DESIGN - PRAKASHPUR
 description: Design Analysis and Algorithms
 theme: jekyll-theme-cayman
 
-# Navigation links
 navbar:
   - title: "Home"
     url: "/"
-  - title: "Projects"
-    url: "/projects"
-  - title: "About"
-    url: "/about"
-  - title: "Contact"
-    url: "/contact"
+  - title: "Team Intro"
+    url: "/team"
+  - title: "Reflections"
+    url: "/reflections"
+  - title: "Business Cases"
+    url: "/businesscases"
+  
+footer:
+  - title: "GitHub"
+    url: "https://github.com/yourprofile"
+  - title: "LinkedIn"
+    url: "https://linkedin.com/in/yourprofile"
+  - title: "Twitter"
+    url: "https://twitter.com/yourprofile"
