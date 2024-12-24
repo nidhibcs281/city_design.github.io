@@ -4,70 +4,87 @@
   <meta name="viewport" content="width=device-width, initial-scale=1.0">
   <title>Business Cases and SDG Alignment</title>
   <style>
-    body {
-      font-family: Arial, sans-serif;
-      line-height: 1.6;
-      margin: 0;
-      padding: 0;
-      background-color: #f4f4f9;
-      color: #333;
-    }
+    body {  
+  font-family: Arial, sans-serif;  /* Set a modern font for the body */  
+  background-color: #f7f9fc;  /* Light background color for contrast */  
+  color: #555;  /* Darker text color for better readability */  
+}  
 
-    .container {
-      width: 80%;
-      margin: 50px auto;
-      background-color: #fff;
-      padding: 20px;
-      box-shadow: 0 2px 5px rgba(0, 0, 0, 0.1);
-      border-radius: 10px;
-    }
+.container {  
+  width: 80%;  
+  margin: 50px auto;  
+  background-color: #fff;  
+  padding: 20px;  
+  box-shadow: 0 4px 10px rgba(0, 0, 0, 0.2);  /* More pronounced shadow */  
+  border-radius: 10px;  
+  border: 1px solid #ddd;  /* Adds a light border around the container */  
+}  
 
-    h1, h2 {
-      color: #333;
-      text-align: center;
-    }
+h1, h2 {  
+  color: #2c3e50;  /* Darker color for headings */  
+  text-align: center;  
+}  
 
-    h2 {
-      font-size: 1.6em;
-      margin-top: 30px;
-    }
+h2 {  
+  font-size: 1.8em;  
+  margin-top: 30px;  
+}  
 
-    p {
-      font-size: 1.1em;
-      margin-bottom: 15px;
-    }
+p {  
+  font-size: 1.1em;  
+  margin-bottom: 15px;  
+}  
 
-    .sdg {
-      background-color: #e0f7fa;
-      padding: 10px;
-      border-radius: 5px;
-      margin-bottom: 10px;
-    }
+/* Button styles */  
+.sdg-button {  
+  display: inline-block;  /* Makes buttons inline */  
+  background-color: #3498db;  /* Primary button color */  
+  color: #fff;  
+  padding: 12px 20px;  /* Padding for buttons */  
+  border: none;  /* No borders */  
+  border-radius: 5px;  /* Rounded corners */  
+  font-size: 1em;  
+  text-decoration: none;  /* Removes underline from links */  
+  margin-right: 10px;  /* Space between buttons */  
+  transition: background-color 0.3s ease;  /* Smooth transition for hover effect */  
+}  
 
-    .sdg-title {
-      font-weight: bold;
-    }
+.sdg-button:hover {  
+  background-color: #2980b9;  /* Darker shade on hover */  
+}  
 
-    .algorithm-section {
-      background-color: #f1f8e9;
-      border-left: 4px solid #4caf50;
-      padding: 15px;
-      margin-bottom: 20px;
-    }
+/* SDG Container Styles */  
+.sdg {  
+  background-color: #e0f7fa;  
+  padding: 10px;  
+  border-radius: 5px;  
+  margin-bottom: 10px;  
+}  
 
-    .algorithm-title {
-      font-weight: bold;
-    }
+.sdg-title {  
+  font-weight: bold;  
+}  
 
-    .sub-sdgs {
-      font-size: 1.1em;
-      margin-bottom: 10px;
-    }
+.algorithm-section {  
+  background-color: #f1f8e9;  
+  border-left: 4px solid #4caf50;  
+  padding: 15px;  
+  margin-bottom: 20px;  
+}  
 
-    .target {
-      font-style: italic;
-      color: #0288d1;
-    }
+.algorithm-title {  
+  font-weight: bold;  
+}  
+
+.sub-sdgs {  
+  font-size: 1.1em;  
+  margin-bottom: 10px;  
+}  
+
+.target {  
+  font-style: italic;  
+  color: #0288d1;  
+}
   </style>
 </head>
 <body>
