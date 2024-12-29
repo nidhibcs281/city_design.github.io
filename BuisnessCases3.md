@@ -69,7 +69,7 @@
   <h1>Business Cases for SDG 11: Sustainable Cities and Communities</h1>
 
   <div class="business-case">
-    <h2>1. Public-Private Partnerships for Funding and Innovation</h2>
+    <h2>1. Collaborative funding for projects </h2>
     <div class="target-info">
       <p><strong>Target:</strong> 11.4</p>
       <p><strong>Goal:</strong> Strengthen efforts to protect and safeguard the world’s cultural and natural heritage</p>
@@ -81,23 +81,26 @@
   </div>
 
   <div class="business-case">
-    <h2>2. Partnerships with International Institutions for Financing Large-Scale Solar Power Installations</h2>
+    <h2>2. Fraud Detection in Private Banks</h2>
     <div class="map-info">
-      <p><strong>Mapped to Target:</strong> 11.a</p>
-      <p><strong>Goal:</strong> Support positive economic, social, and environmental links between urban, peri-urban, and rural areas by strengthening national and regional development planning</p>
+      <p><strong>Mapped to Target:</strong> 11.2</p>
+      <p><strong>Goal:By 2030, provide access to safe, affordable, accessible and sustainable transport systems for
+all, improving road safety, notably by expanding public transport, with special attention to the needs of
+those in vulnerable situations, women, children, persons with disabilities and older persons</p>
       <ul class="indicator-list">
-        <li>Number of countries that have national urban policies or regional development plans that (a) respond to population dynamics; (b) ensure balanced territorial development; and (c) increase local fiscal space</li>
+        <li>: Proportion of population that has convenient access to public transport, by sex, age and
+persons with disabilities</li>
       </ul>
     </div>
   </div>
 
   <div class="business-case">
-    <h2>3. Public-Private Partnerships for Infrastructure Development</h2>
+    <h2>3. Efficient Water Supply Management</h2>
     <div class="map-info">
-      <p><strong>Mapped to Target:</strong> 11.a</p>
-      <p><strong>Goal:</strong> Support positive economic, social, and environmental links between urban, peri-urban, and rural areas by strengthening national and regional development planning</p>
+      <p><strong>Mapped to Target:</strong> 11.1</p>
+      <p><strong>Goal:By 2030, ensure access for all to adequate, safe and affordable housing and basic services and upgrade slums</p>
       <ul class="indicator-list">
-        <li>Number of countries that have national urban policies or regional development plans that (a) respond to population dynamics; (b) ensure balanced territorial development; and (c) increase local fiscal space</li>
+        <li>Proportion of the urban population living in slum households</li>
       </ul>
     </div>
   </div>
