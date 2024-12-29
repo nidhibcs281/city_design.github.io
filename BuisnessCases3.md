@@ -87,6 +87,7 @@
       <p><strong>Goal:By 2030, provide access to safe, affordable, accessible and sustainable transport systems for
 all, improving road safety, notably by expanding public transport, with special attention to the needs of
 those in vulnerable situations, women, children, persons with disabilities and older persons</p>
+         <p><strong>Indicators:</strong> 11.2.1</p>
       <ul class="indicator-list">
         <li>: Proportion of population that has convenient access to public transport, by sex, age and
 persons with disabilities</li>
@@ -99,6 +100,7 @@ persons with disabilities</li>
     <div class="map-info">
       <p><strong>Mapped to Target:</strong> 11.1</p>
       <p><strong>Goal:By 2030, ensure access for all to adequate, safe and affordable housing and basic services and upgrade slums</p>
+        <p><strong>Indicators:</strong> 11.1.1</p>
       <ul class="indicator-list">
         <li>Proportion of the urban population living in slum households</li>
       </ul>
