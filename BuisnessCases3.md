@@ -89,7 +89,7 @@ all, improving road safety, notably by expanding public transport, with special 
 those in vulnerable situations, women, children, persons with disabilities and older persons</p>
          <p><strong>Indicators:</strong> 11.2.1</p>
       <ul class="indicator-list">
-        <li>: Proportion of population that has convenient access to public transport, by sex, age and
+        <li>Proportion of population that has convenient access to public transport, by sex, age and
 persons with disabilities</li>
       </ul>
     </div>
