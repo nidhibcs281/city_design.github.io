@@ -15,6 +15,8 @@ I am passionate about technology and problem-solving. Here's a glimpse of my wor
 
 ## 🌐 Find Me Online
 - [GitHub](https://github.com/01fe23bcs278)
+- [Linkedin](https://www.linkedin.com/in/khushi-r-a2a79a311)
+  
   
 
 ## Portfolio Topic
